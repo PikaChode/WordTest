@@ -1,9 +1,0 @@
-Although maternal and infant death rates in China are not as high as in some developing countries (1),
-the rates in remote areas remain elevated, about 300 per 100,000 deliveries for maternal mortality and 40 per 1,000 births for infant mortality.
-Many of these maternal and infant deaths may be avoidable if mothers and local health workers can learn how to better detect and manage pregnancy complications.
-The World Health Organization (WHO)’s Promotion of Perinatal Care Program (2)
-contains teaching aids and texts for maternity care education.
-These WHO materials have been validated and widely implemented in many regions worldwide, with various levels of successes. 
-
-1.	WHO. Make every mother and child count. The World Health Report 2005. http://www.who.int/whr/2005/whr2005_en.pdf. (Accessed January 31, 2018).
-2.	Chalmers B, Mangiaterra V, Porter R. WHO Principles of Perinatal Care: The essential antenatal, perinatal and postpartum care c0ourse.  Birth. 2001;28(3):202-207. 

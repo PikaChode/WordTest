@@ -1,0 +1,13 @@
+Introduction 
+Video feedback has been demonstrated as an effective teaching tool that can improve student skills by viewing their own performance on video [1].
+Students can identify what they did well, what they did not do so well, and what they could improve through video feedback in nursing skills training [2].
+A meta-analysis showed that video feedback has a positive effect on learning [1]. 
+Smartphones are very popular in the younger generation and could be exploited to improve learning as a consequence of their potential to influence personal behaviors [3, 4].
+In recent years, China has developed some popular apps such as WeChat and QQ, which support instant messaging of text, voice, and video via smart phones.
+The penetration rate of both smart phones and WeChat/QQ is virtually 100% among university and college students, providing a convenient basis for integrating the video feedback and nursing skills training[5, 6].
+WeChat and QQ are the most popular personal communication tools used by university and college students in China, making them attractive options for implementing enhanced teaching methods in medicine and nursing [7, 8].
+
+Attempts have been made to use smart phones to achieve positive results for a range of medical and nursing education issues, including coordination supporting among groups [5], theory and practice integrating [9], student participation/engagement [10], and communication skill enhancement [5].
+Nursing skills practice could be recorded in video format by students, and then sent to teachers via instant messaging. The teachers, in turn, could provide comments and suggestions on the students’ performance, providing rapid content-related feedback.
+As the literature on the potential benefits of video feedback on the teaching of fundamental nursing skills is sparse, the present study was conducted to evaluate the effects of video feedback through smart phone instant messaging on teaching fundamental nursing skills.     
+
